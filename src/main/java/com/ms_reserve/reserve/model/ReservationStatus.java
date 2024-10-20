@@ -1,4 +1,4 @@
-package com.ms_reserve.reserve.modelo;
+package com.ms_reserve.reserve.model;
 
 public enum ReservationStatus {
     PENDING,
